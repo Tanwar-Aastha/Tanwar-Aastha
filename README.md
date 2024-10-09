@@ -6,7 +6,6 @@ Greetings from my GitHub! I'm an aspiring data scientist with a background in mi
 
 - 🔭 Currently focused on building my expertise in **Data Science**, **MLOps**, and **GenAI** applications.
 - 🌱 Developing projects that integrate **machine learning models**, **data wrangling** techniques, and **SQL** analysis.
-- 💼 Hands-on experience in **retail sales analysis**, and building **time series forecasting models**.
 - ⚡ Constantly refining my skills in **Python**, **SQL**, **Power BI**, and other analytical tools.
 
 ## 💻 Skills
