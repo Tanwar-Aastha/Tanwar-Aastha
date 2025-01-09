@@ -10,7 +10,7 @@ Greetings from my GitHub! I'm an aspiring data scientist with a background in mi
 
 ## 💻 Skills
 
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python, SQL, R
 - **Data Visualization**: Power BI
 - **Data Analysis & Wrangling**: Pandas, NumPy
 - **Databases**: MySQL, SQLite
@@ -20,7 +20,7 @@ Greetings from my GitHub! I'm an aspiring data scientist with a background in mi
 - **Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Databases**: MySQL, SQLite
-- **Visualization Tools**: Power BI, Matplotlib
+- **Visualization Tools**: Power BI
 
 
 
