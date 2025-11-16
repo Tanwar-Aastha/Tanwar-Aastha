@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aastha Tanwar
 
-Greetings from my GitHub! I'm an aspiring data scientist with a background in microbiology and bioinformatics. My passion is using **machine learning**, **data science**, and developing scalable backend systems to drive **data-driven innovations** and use data to solve real-world problems.
+Greetings from my GitHub! I'm data engineer Trainee with a background in microbiology and bioinformatics. My passion is using **machine learning**, **data science**, and developing scalable backend systems to drive **data-driven innovations** and use data to solve real-world problems.
 
 <!--## 🌟 About Me
 
