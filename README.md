@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aastha Tanwar
 
-Greetings from my GitHub! I'm data engineer Trainee with a background in microbiology and bioinformatics. My passion is using **machine learning**, **data science**, and developing scalable backend systems to drive **data-driven innovations** and use data to solve real-world problems.
+Welcome to my GitHub! I’m a Data Engineer with a background in bioinformatics, currently building hands-on experience across data engineering, machine learning, and generative AI. I enjoy working at the intersection of data systems and intelligent applications—turning raw data into something useful, reliable, and impactful.
 
 <!--## 🌟 About Me
 
@@ -23,14 +23,24 @@ Greetings from my GitHub! I'm data engineer Trainee with a background in microbi
 - **Visualization Tools**: Power BI
 -->
 
-# 💫 About Me:
-- I'm a Data Analyst and Machine Learning Practitioner with a focus on turning data into actionable insights.<br>
-- My passion is using **machine learning**, **data science**, and developing scalable backend systems to drive **data-driven innovations** and use data to solve real-world problems.
-- Working on a Power BI dashboard and practicing web scraping with Python.<br>
-- Open to collaborating on beginner-friendly ML and data analysis projects.<br>
-- Looking for guidance on organizing and deploying data science projects.<br>
-- Learning Flask, Streamlit, and techniques to optimize ML models.<br>
+## 💫 About Me:
+I work on building scalable data pipelines, exploring lakehouse architectures, and applying ML/AI concepts in practical projects. Recently, I’ve been deepening my experience with Databricks, Spark, and Delta Lake, while also learning how Generative AI and agentic systems can be integrated into real-world data and AI workflows.
 
+I value clean design, strong fundamentals, and learning through hands-on problem solving.
+
+## 🚀 What I’m Currently Working On
+
+- End-to-end projects using Databricks, Spark, and Delta Lake
+- Designing batch and incremental data pipelines (including CDC patterns)
+- Exploring Generative AI and agentic AI concepts for intelligent systems
+- Applying Python for data processing, ML experimentation, and automation
+- Improving system thinking around data + AI architectures
+
+## 🤝 Open To
+
+- Collaborating on data engineering, ML, or GenAI projects
+- Learning from experienced engineers and AI practitioners
+- Feedback on designing production-ready data and AI systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aastha-tanwar1701) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanwaraastha89@gmail.com) 
